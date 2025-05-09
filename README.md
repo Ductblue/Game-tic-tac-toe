@@ -65,10 +65,5 @@ Ticky is a simple yet fun implementation of the classic Tic Tac Toe game. Built 
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 🎮 **Enjoy the game and happy coding!**
